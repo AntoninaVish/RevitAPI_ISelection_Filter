@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Program Files\RevitAPITrainig\RevitAPI_ISelection_Filter.dll"</Assembly>
+		<AddInId>2A4E7F9C-E2DA-4EA3-BE9F-A7710CC7BD13</AddInId>
+		<FullClassName>RevitAPI_ISelection_Filter.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>ISelectionFilter для Revit</Text>
+	</AddIn>
+</RevitAddIns>
